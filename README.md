@@ -9,3 +9,4 @@ Developed an interactive sales dashboard for super market shops.
 4. Data Modeling
 5. Writing DAX
 6. Developing an Interactive BI Dashboard
+![Sales Dashboard](https://user-images.githubusercontent.com/41924501/205491443-3252d5a4-d299-4d4c-bef3-5d62dda9f8a3.jpg)
