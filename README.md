@@ -1,7 +1,7 @@
-#SALES DASHBOARD
+# SALES DASHBOARD
 Developed an interactive sales dashboard for super market shops.
 
-##Creating a dashboard followed steps as below:
+## Creating a dashboard followed steps as below:
 
 1. Connecting Database with Power BI Desktop
 2. Analyzing the tables and relations
